@@ -16,8 +16,10 @@ Classic gameplay inspired by Windows 7’s iconic tile matching game. :floppy_di
 
 ## Some screenshots for you :)
 - watch it in aciton!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/730e46ac-15ff-444f-81d0-6bd3c259dd45)
+
+    - [another!](https://github.com/user-attachments/assets/bdb6eb1a-1d55-4f6d-8cf4-c87aab9472a5)
+
 
 
 ## :wink: contact me!! :v::heart:
