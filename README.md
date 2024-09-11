@@ -3,7 +3,7 @@ a superfun and addictive game inpired by classics of Windows 7 version! :fire:. 
 
 
 ## Usage
-head to the [releases page](https://github.com/uniquepersun/pretty-cool-clock/releases) and get latest version or clone the repo and start having cooool feelings :sunglasses:
+head to the [releases page](https://github.com/uniquepersun/matching-tile-game-like-windows-7/releases) and get latest version or clone the repo and start having cooool feelings :sunglasses:
 
 
 ## But, how it works??
